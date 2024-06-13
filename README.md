@@ -8,7 +8,8 @@
 * Alunos: Cadastro de alunos com nome, número de matrícula e CPF.
   
 * Professores: Cadastro de professores com nome e CPF.
-
+* Controle: Gerenciamento da relação Professor - Curso - Aluno
+  
 ## Estrutura do Projeto
 * TelaTurmasController: Controla a interface de turmas.
 
